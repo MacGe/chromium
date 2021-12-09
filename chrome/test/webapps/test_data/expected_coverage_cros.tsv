@@ -1,9 +1,0 @@
-# This is a generated file.
-# Full coverage: 31%, with partial coverage: 31%
-state_change_a_Mode1🌕	check_a_Mode1🌕
-state_change_a_Mode1🌕	check_b_Mode1🌕
-state_change_b_Mode1🌑	check_a_Mode1🌑
-state_change_b_Mode1🌑	check_b_Mode1🌑
-state_change_a_Mode2🌑	check_b_Mode4🌑
-state_change_a_Mode1🌕	state_change_b_Mode1🌑	check_a_Mode1🌑
-state_change_a_Mode2🌑	state_change_a_Mode1🌑	check_a_Mode1🌑
