@@ -1,6 +1,0 @@
-rootWebArea name='Done'
-++genericContainer ignored
-++++genericContainer ignored
-++++++genericContainer
-++++++++genericContainer
-++++++++++staticText name='Not hidden'
